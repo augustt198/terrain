@@ -1,0 +1,5 @@
+main: me.august.terrain.TerrainPlugin
+name: Terrian
+version: 0.1
+description: Custom Terrain generator
+author: augustt198
